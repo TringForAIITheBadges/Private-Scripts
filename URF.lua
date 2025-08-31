@@ -1,7 +1,5 @@
 --// Written by depso
 --// URF
-
-
 --// Tested games ----->
 
 -- https://www.roblox.com/games/13667319624/Knockout-Simulator [Infinite Strength / Wins]
