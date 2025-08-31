@@ -1,4 +1,4 @@
---// Written by depso
+--// Written by Norgumi
 --// URF
 --// Tested games ----->
 
