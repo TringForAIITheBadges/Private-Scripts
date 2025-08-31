@@ -1,7 +1,7 @@
 --// Written by Norgumi
 --// URF
 --// Tested games ----->
---// Self note : remote arg (90000000) to avoid crashing/tp
+--// Self note : remove arg (90000000) to avoid crashing/tp
 
 -- https://www.roblox.com/games/13667319624/Knockout-Simulator [Infinite Strength / Wins]
 -- https://www.roblox.com/games/15210092998/Ski-Race-Simulator [Infinite Strength / Wins]
